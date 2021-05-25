@@ -1,0 +1,12 @@
+{
+	"name": "hex-bot",
+	"version": "0.0.1",
+	"description": "Implementation of the game of Hex as a discord bot.",
+	"main": "index.js",
+	"author": "diggitydingdong",
+	"dependencies": {
+		"-": "0.0.1",
+		"discord.js": "^12.4.1",
+		"save": "^2.4.0"
+	}
+}
