@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "Implementation of the game of Hex as a discord bot.",
 	"main": "index.js",
-	"author": "diggitydingdong",
+	"author": "mitchell-merry",
 	"dependencies": {
 		"-": "0.0.1",
 		"discord.js": "^12.4.1",
